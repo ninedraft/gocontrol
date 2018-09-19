@@ -19,6 +19,6 @@ for i := 0; i<42; i++ {
 
 for guard.AliveN() > 0{
     time.Sleep(100*time.Millisecond)
-    fmt.Println("%d goroutines are alive")
+    fmt.Println("%d goroutines are alive", guard.AliveN())
 }
 ```
