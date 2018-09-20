@@ -1,5 +1,5 @@
 # gocontrol
-[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![GitHub license](https://img.shields.io/github/license/ninedraft/gocontrol.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) [![](https://godoc.org/github.com/ninedraft/gocontrol?status.svg)](https://godoc.org/github.com/ninedraft/gocontrol)
+[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![GitHub license](https://img.shields.io/github/license/ninedraft/gocontrol.svg)](https://github.com/ninedraft/gocontrol/blob/master/LICENSE) [![](https://godoc.org/github.com/ninedraft/gocontrol?status.svg)](https://godoc.org/github.com/ninedraft/gocontrol)
 
 Micropackage for goroutine population control with dead simple API
 
